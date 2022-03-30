@@ -74,9 +74,10 @@ As explained above the application can be split as separate micro-services namel
 
 All the above modules are independent and can be scaled as per requirements
 
+![image](https://user-images.githubusercontent.com/75239469/160891951-be4141c2-2222-4453-82bd-2788accbcdaf.png)
+
 To start the application use any of the commands
 
-![image](https://user-images.githubusercontent.com/75239469/160891951-be4141c2-2222-4453-82bd-2788accbcdaf.png)
 
 
 ```bash
