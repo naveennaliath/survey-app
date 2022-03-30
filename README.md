@@ -76,6 +76,8 @@ All the above modules are independent and can be scaled as per requirements
 
 To start the application use any of the commands
 
+![image](https://user-images.githubusercontent.com/75239469/160891951-be4141c2-2222-4453-82bd-2788accbcdaf.png)
+
 
 ```bash
 mvn spring-boot:run
